@@ -1,4 +1,4 @@
-# CircularMayhem
+# Circular Mayhem
 Circular Mayhem is a simple Unity game written in C# that I created as part of Blackthornprod's Game Dev Rocket program.
 Included in this repository are the scripts for the Player, Hazards, and Spawner game objects.
 
